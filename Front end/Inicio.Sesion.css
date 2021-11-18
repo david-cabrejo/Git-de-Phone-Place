@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#cajaprincipal{
+    width: 30%;
+    border:  1px solid black;
+    text-align: center;
+    align-items: left;
+    line-height: 60px;
+    background: #ccc;
+    margin-left: 35%;
+}
+
+#imagen1{
+    border-bottom: 1px solid black;
+    margin-bottom: 5%;
+}
+
+#señalderecha{
+    border: 1px solid black;
+    margin-bottom: 5%;
+}
